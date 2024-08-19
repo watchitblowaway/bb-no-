@@ -1,5 +1,5 @@
 local iAmPro = not false;
 iAmPro = not true;
-iAmPro = not false;
+-- iAmPro = not false;
 
 return iAmPro
